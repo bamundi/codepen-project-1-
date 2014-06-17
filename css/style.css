@@ -1,0 +1,18 @@
+html {
+height: 100%;
+background:
+
+	repeating-linear-gradient(
+		45deg,
+		#40dfcb,
+     #7b72e9 4em
+	),
+	repeating-linear-gradient(
+		180deg,
+		#7b72e9,
+		#40dfcb 4em
+	);
+	
+	background-blend-mode: overlay;
+  
+
